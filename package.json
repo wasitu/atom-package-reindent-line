@@ -11,7 +11,7 @@
   "activationCommands": {
     "atom-workspace": "reindent-line:do"
   },
-  "repository": "https://github.com/atom/reindent-line",
+  "repository": "https://github.com/wasitu/atom-package-reindent-line",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
