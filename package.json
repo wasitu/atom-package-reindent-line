@@ -1,0 +1,21 @@
+{
+  "name": "reindent-line",
+  "main": "./lib/main",
+  "version": "0.0.0",
+  "description": "You can reindent line.",
+  "keywords": [
+    "indent",
+    "reindent",
+    "line"
+  ],
+  "activationCommands": {
+    "atom-workspace": "reindent-line:do"
+  },
+  "repository": "https://github.com/atom/reindent-line",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
